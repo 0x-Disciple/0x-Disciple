@@ -15,5 +15,4 @@
 ```shell
 git clone
 
-```shell
-npm install
+```npm install```
