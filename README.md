@@ -16,5 +16,4 @@
 git clone
 
 2. fgdfgdf
-```
 npm install```
