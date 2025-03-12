@@ -16,4 +16,5 @@
 git clone
 
 ```
+shell
 npm install```
