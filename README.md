@@ -14,4 +14,4 @@
 
 
 ```shell
-npm install```
+npm install
