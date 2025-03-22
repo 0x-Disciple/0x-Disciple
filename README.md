@@ -8,7 +8,7 @@
 - 📚 Currently working with **JavaScript, Python, and Web3.js**  
 - 🎯 Passionate about retroactive, testnets, and crypto airdrops  
 
-<<<<<<< HEAD
+
 ### 🛠️ Tech Stack  
 - **Languages:** JavaScript, Python, NodeJs
 - **Blockchain:** Web3.js, Ethers.js, Solidity (beginner)  
@@ -17,9 +17,9 @@
 
 
 ### 🌍 Connect With Me  
-- Twitter: [@triski_m](https://twitter.com/lLana)  
-- Telegram: [@jeruknipis69](https://t.me/lLana)  
-- GitHub: [0x-Disciple](https://github.com/0x-Disciple)  
+- Twitter: [lLana](https://twitter.com/triski_m)  
+- Telegram: [lLana](https://t.me/jeruknipis69)  
+- GitHub: [lLocalHost](https://github.com/0x-Disciple)  
 
 ---
 
