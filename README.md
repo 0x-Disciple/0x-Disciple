@@ -1,33 +1,29 @@
 # 👋 Hi, I'm lLana  
-💻 Exploring Blockchain, Automation & Bot Development  
+💻 welcome and enjoy what is here
 
-### 🚀 About Me  
-- 🔥 Learning programming & building automation tools  
-- 🤖 Developing bots Automations  
-- 🌐 Exploring blockchain  
-- 📚 Currently working with **JavaScript, Python, and Web3.js**  
-- 🎯 Passionate about retroactive, testnets, and crypto airdrops  
-
-
-### 🛠️ Tech Stack  
-- **Languages:** JavaScript, Python, NodeJs
-- **Blockchain:** Web3.js, Ethers.js, Solidity (beginner)  
-- **Automation:** Puppeteer, Selenium, Node.js, Axios
-- **Tools:** VSCode, VPS, Git  
+### 🚀 A little about Me  
+{
+    Funfact: ["gweh aslinya cupu"],
+}
 
 
 ### 🌍 Connect With Me  
 - Twitter: [lLana](https://twitter.com/triski_m)  
 - Telegram: [lLana](https://t.me/jeruknipis69)  
-- GitHub: [lLocalHost](https://github.com/0x-Disciple)  
+
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Disciple&layout=compact&theme=tokyonight)
 
 
 <<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&log=pyhon&logoColor=red)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=green)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple)
 
 
 
-**Let's build something awesome together! 🚀**
+**Let's build something awesome together!**
