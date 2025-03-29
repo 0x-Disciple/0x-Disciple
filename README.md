@@ -1,8 +1,7 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
-![https://Triski_W.M_A_graphic_design_featuring_the_text___lLana__in_a_e9e0fdc4-f85d-40a4-ab3d-389c6c92a186%20(3).png]
-
+![Banner](https://your-image-link.com/banner.png)
 
 ### 🚀 A little about Me
 ```json
