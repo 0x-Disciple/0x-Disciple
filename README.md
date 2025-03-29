@@ -1,9 +1,7 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
-### 🚀 A little about Me  
-<div align="center">
-
+### 🚀 A little about Me
 ```json
 {
   "funFact": "Gweh aslinya cupu"
