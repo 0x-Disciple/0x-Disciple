@@ -1,6 +1,9 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
+![Banner](https://Triski_W.M_A_graphic_design_featuring_the_text___lLana__in_a_e9e0fdc4-f85d-40a4-ab3d-389c6c92a186%20(3).png)
+
+
 ### 🚀 A little about Me
 ```json
 {
@@ -20,7 +23,7 @@
 
 | Languages | Tools |
 |-----------|-----------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
 
 **Let's build something awesome together!**
