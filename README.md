@@ -1,9 +1,6 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
-<img src="https://api8.iloveimg.com/v1/download/l5r65gh4lfmvdswkr92q97f2gn1hw12ztgrcz3zg0h0qfwyqkjd65dqhpkgb1lbt50f7rhhj9cw292ysjAmd15b28k28dlrkj004s5swg8qtA5v7b55511smql6b09xz83kpnxdkj2hyq31tny3dbxl4vmv2fjp7zs962vjc04lf9dft16c1" alt="Banner" width="600px">
-
-
 ### 🚀 A little about Me
 ```json
 {
