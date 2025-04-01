@@ -1,7 +1,10 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
-![My Banner] (https://imgur.com/a/No4AII3)
+<p align="center">
+  <img src="https://imgur.com/a/No4AII3" width="500px">
+</p>
+
 
 ### 🚀 A little about Me
 ```json
