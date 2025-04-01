@@ -1,7 +1,7 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
-![Imgur](https://imgur.com/iUDsgwx)
+![My Banner](https://i.imgur.com/iUDsgwx.png)
 
 
 ### 🚀 A little about Me
