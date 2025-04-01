@@ -2,7 +2,7 @@
 💻 welcome and enjoy what is here
 
 <p align="center">
-  <img src="https://imgur.com/a/No4AII3" width="500px">
+  <img src="https://imgur.com/a/No4AII3.png" width="500px">
 </p>
 
 
