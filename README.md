@@ -1,9 +1,7 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
-<p align="center">
-  <img src="https://imgur.com/a/No4AII3.png" width="500px">
-</p>
+![Imgur](https://imgur.com/iUDsgwx)
 
 
 ### 🚀 A little about Me
