@@ -1,9 +1,7 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
-![My Banner](https://raw.githubusercontent.com/0x-Disciple/repository/main/folder/imgur.com/a/No4AII3)
-
-
+https://imgur.com/a/No4AII3
 
 ### 🚀 A little about Me
 ```json
