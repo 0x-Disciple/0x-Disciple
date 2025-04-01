@@ -1,7 +1,7 @@
 # 👋 Hi, I'm lLana  
 💻 welcome and enjoy what is here
 
-https://imgur.com/a/No4AII3
+![My Banner] (https://imgur.com/a/No4AII3)
 
 ### 🚀 A little about Me
 ```json
