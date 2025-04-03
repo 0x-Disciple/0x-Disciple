@@ -14,8 +14,8 @@
 ```
 
 ### 🌍 Connect With Me  
-- Twitter: [lLana](https://twitter.com/triski_m)  
-- Telegram: [lLana](https://t.me/jeruknipis69)  
+- [Twitter](https://twitter.com/triski_m)  
+- [Telegram](https://t.me/jeruknipis69)  
 
 
 ---
